@@ -1,4 +1,4 @@
-Nesse exemplo são utilizados os seguintes recursos:
+Neste exemplo são utilizados os seguintes recursos:
 
 * Componente personalizado (MyText);
 * Estilos CSS internos e externos;
