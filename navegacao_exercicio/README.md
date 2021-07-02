@@ -1,4 +1,4 @@
-#Neste exemplo são utilizados os seguintes recursos:
+# Neste exemplo são utilizados os seguintes recursos:
 
 * Projeto organizado utilizando /src, /src/screens;
 * Navegação utilizando StackNavigator, BottomTabNavigator e DrawerNavigator;
