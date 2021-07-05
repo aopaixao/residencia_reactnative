@@ -16,6 +16,7 @@ A sequência de projetos, conforme conteúdo visto em aula, é a seguinte:
 2. Fazer o download do projeto compactado a partir do git;
 3. Descompactar o projeto;
 4. A partir dos arquivos descompactados:
+<br/>
 a) Copiar o arquivo package.json e sobrescrever o existente na pasta raiz do projeto (criado no passo 1); <br/>
 b) Copiar o arquivo index.js e sobrescrever o existente na pasta raiz do projeto (criado no passo 1); <br/>
 c) Copiar a pasta src e todo seu conteúdo para a raiz do projeto; <br/>
