@@ -5,3 +5,4 @@ Neste exemplo são utilizados os seguintes recursos:
 * Ícones da biblioteca react-native-elements
 * Consumo de recursos externoa via AJAX utilizando axios;
 * Uso da API Contexto para acesso a dados ao longo da aplicação;
+* Uso de badge para exibição dinâmica de dados (qtde. de itens dentro do carrinho)
